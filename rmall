@@ -1,0 +1,16 @@
+#RmAll
+#The easiest way to block ads and trackers: remove them all
+
+# Scratch
+https://api.scratch.mit.edu/news
+https://api.scratch.mit.edu/messages
+https://api.scratch.mit.edu/users/*/followers
+https://api.scratch.mit.edu/users/*/curating_studios
+
+# Discord
+https://discord.com/api/*/messages
+https://discord.com/api/*/typing
+https://discord.com/api/*/science
+
+# Jazzy Mirrazzy
+https://jazzythedog.awesomecrater.repl.co/psws/*.txt
